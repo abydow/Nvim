@@ -1,7 +1,8 @@
+
 # 🚀 Modern Neovim Configuration
 
-![Neovim Logo](<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c1e193fa-61ba-4de2-8a15-32ff38e6f42d" />)
-  
+![Neovim Logo](image:37)
+
 > A blazing fast, feature-rich, and modern Neovim configuration built with Lua for the ultimate development experience.
 
 ## ✨ Features
