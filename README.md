@@ -17,7 +17,7 @@
 - 📊 **Git Integration** - Gitsigns and Fugitive for comprehensive version control
 - 🎨 **Visual Enhancements** - Lualine statusline, Web Dev Icons, and more
 
-![Lua Logo](image:40)
+![Lua Logo](assets/21HPAsO0l1L.webp)
 
 ## 📁 Project Structure
 
