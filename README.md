@@ -1,7 +1,7 @@
 
 # 🚀 Modern Neovim Configuration
 
-![Neovim Logo](image:37)
+![Neovim Logo](assets/Neovim-logo.webp)
 
 > A blazing fast, feature-rich, and modern Neovim configuration built with Lua for the ultimate development experience.
 
