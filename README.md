@@ -3,7 +3,7 @@
 
 ![Neovim Logo](assets/Neovim-logo.webp)
 
-> A blazing fast, feature-rich, and modern Neovim configuration built with Lua for the ultimate development experience.
+> A blazing fast, futuristic, and modern Neovim configuration built with Lua for the ultimate development experience.
 
 ## ✨ Features
 
